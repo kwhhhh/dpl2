@@ -1,0 +1,322 @@
+DOES STRENGTHENED ENVIRONMENTAL-LAW
+ENFORCEMENT IMPROVE REGULATORY EFFICIENCY?
+CAUSAL EVIDENCE FROM CHINA
+
+Junhao Kong1,2 
+
+1Department of Economics, Zijingang Campus, Zhejiang University,
+Yuhangtang Rd. 888, Hangzhou, China
+2Rural Commercial Bank Research Institute,
+Zhejiang Rural Commercial United Bank Co.,Ltd, Qiutao Rd. 660
+
+Abstract
+
+Although China has made remarkable strides in environmental governance, persistent inefficiencies within the regulatory system continue to undermine its effectiveness. This study aims to explore how strengthened environmental-law enforcement resulting from the establishment of environmental courts improve the efficiency of local environmental regulation. First, we employ a non-desirable-output Slacks-Based Measure (SBM) model to construct a comprehensive index of local environmental-regulation efficiency, integrating multi-source, city-level data. Then, we leverage the exogenous establishment of environmental courts as a quasi-natural experiment, which substantially enhances both the independence and expertise of China’s environmental judiciary, and employ a Difference-in-Differences (DID, hereafter) approach to assess its causal effects. Our findings demonstrate that strengthened environmental-law enforcement significantly enhances local environmental regulatory efficiency. Mechanism analysis reveals three key pathways: (1) enhanced environmental justice efficiency, (2) reduced local government interference, and (3) elevated public participation in environmental protection. Furthermore, the effect is more pronounced in cities facing greater environmental governance pressure and lower environmental information transparency. These results underscore the importance of robust legal enforcement in environmental regulation and highlight the critical role of judicial independence in achieving effective environmental governance.
+
+Keywords: environmental regulatory efficiency, environmental court, judicial efficiency, government interference, public participation
+
+1. Introduction
+
+During the large-scale industrialization and urbanization process, China has established a four-tier environmental management agency system and implemented a hierarchical, multi-departmental management framework under unified supervision. However, as environmental issues intensify, the current system exhibits significant shortcomings, including fragmented responsibilities, overlapping mandates, local government interference, multi-agency enforcement, and insufficient cross-regional coordination, resulting in suboptimal environmental regulatory efficiency (Yang, 2022). Furthermore, after the comprehensive law enforcement reform, the pollution control and environmental protection enforcement responsibilities were transferred to the ecological and environmental authorities. Yet, corresponding enforcement resources (e.g., institutions, personnel, equipment) and supporting technologies were not reallocated accordingly, imposing severe challenges on the already resource-constrained ecological and environmental enforcement agencies (Zhang and Deng, 2022). Therefore, improving environmental regulatory efficiency has become a critical issue in current China’s environmental protection efforts. This paper examines, from the perspective of environmental legal systems, how strengthened environmental-law enforcement resulting from the establishment of environmental courts influences local governments’ environmental regulatory efficiency.
+Our results show that cities with environmental courts attain higher environmental regulatory efficiency. We trace this gain to three mechanisms—enhanced justice efficiency, reduced government interference, and elevated public participation—and devise targeted tests for each. Firstly, we find that cities with courts attain greater environmental-justice efficiency by resolving more environmental-dispute cases. Secondly, the effect proves stronger in cities with heavier government interference, confirming that environmental courts curb such obstructive behavior. Finally, we find that environmental courts also raise public environmental awareness, facilitating public participation that further improves regulatory efficiency. Importantly, prior to court establishment, treatment and control cities exhibit no significant difference in regulatory efficiency. Robustness checks confirm these findings survive tests for omitted variables, alternative estimators, regional trends, heterogeneous effects, alternative efficiency measures, and sample selection. The effect is most pronounced in cities facing greater environmental governance pressure and lower pollution information transparency.
+This study connects with two strands of literature. First, it builds on research examining the consequences of establishing environmental courts. This emerging topic has attracted significant academic attention, with numerous studies investigating how this judicial innovation affects environmental governance, corporate behavior, and economic development. Zhang et al. (2019) demonstrate that environmental courts increase corporate environmental investments, particularly in regions with strong local protectionism and high marketization. Through analyzing heavily polluting listed firms, Zhai and Liu (2019) show that environmental courts effectively promotes corporate environmental governance, with stronger effects in more market-oriented regions and where environmental performance factors into official evaluations. Fan and Zhao (2019) document environmental courts’ positive impact on urban pollution control, significantly reducing industrial emissions through enhanced judicial processing, government supervision, and public participation. Gao and Wen (2021) examine how environmental courts affect bond financing costs, finding they increase financing costs for high-pollution firms due to heightened litigation risks and oversight. Huang et al. (2022) reveal that environmental courts deter FDI inflows by intensifying environmental litigation risks and public scrutiny. Wang et al. (2023) demonstrate how environmental courts spur corporate green mergers that achieve long-term environmental-economic synergies. Wu et al. (2023) identify increased bank loan difficulties and audit fees for companies, especially in environmentally sensitive industries (Wu et al., 2025). Zeng et al. (2024) uncover environmental courts’ deterrent effect in reducing equity capital costs for heavy polluters, particularly in cities with weaker public participation and environmental transparency. While existing literature establishes environmental courts’ mixed effects, our work makes two novel contributions. First, we provide the first evidence that environmental courts enhance local environmental regulatory efficiency, particularly in cities facing greater environment governance pressures. Second, we identify public participation as crucial mechanisms, with more pronounced efficiency gains in cities with lower environmental transparency that facilitates monitoring and engagement.
+This study also engages with literature on environmental regulatory efficiency. Wang et al. (2012) highlight the crucial role of technology and capital investment in improving urban environmental regulatory efficiency, proposing multiple optimization strategies. Yang and Zhang (2018) develop an expanded data envelopment analysis (DEA) model to examine regional eco-efficiency dynamics in China from 2003 to 2014, revealing higher efficiency in eastern and northern regions compared to northwestern areas, with technological progress being the key driver. Li et al. (2019) investigates how different environmental regulations affect efficiency in China’s steel industry, finding market-incentive regulations exhibit an inverted U-shaped effect - initially boosting but eventually suppressing efficiency with increased intensity, while command-control regulations show insignificant positive effects. Yu et al. (2020) employs an improved network DEA model to assess provincial eco-efficiency from 2003 to 2016, documenting partial improvements but persistently low overall efficiency. Tang et al. (2021) analyze China’s central and local government evaluation-and-commendation programs for environmental governance, examining their effectiveness in boosting regulatory efficiency and long-term impacts. Hou et al. (2023) demonstrate anti-corruption campaigns directly improve regulatory efficiency but may indirectly reduce neighboring regions’ efficiency through “pollution haven” effects as polluting industries relocate. These studies collectively reveal China’s environmental governance challenges while emphasizing anti-corruption measures, policy incentives, and technological advancement as critical improvement levers. Our work contributes by establishing environmental courts as a novel efficiency-enhancing mechanism through three specific channels: enhanced judicial efficiency, reduced government intervention/protectionism, and elevated public participation.
+
+2. Theory and hypotheses
+
+China’s local environmental governance relies on environmental law enforcement and adjudication. However, due to the subordinate administrative status of local environmental agencies and constraints within the conventional judicial system, both environmental enforcement and adjudication suffer from limited independence and professional capacity, resulting in inefficient local environmental regulation.
+Prior to vertical environmental reform, local governments—particularly at the county level—frequently interfered with environmental enforcement. The leading cause stemmed from the conflicting interests that existed between environmental protection authorities and local government agencies (Kostka, 2014; Wunderlich, 2017). During the era of aggressive economic growth, polluting enterprises were often major contributors to local GDP and tax revenue, while the adverse effects of environmental pollution took much longer to materialize. This created strong incentives for “short-sighted” local governments to compromise environmental oversight for economic gains. Under the previous territorial management model, local governments controlled the personnel and financial authority of environmental agencies, wielding far greater influence over them than higher-level environmental authorities.
+In the realm of environmental justice, environmental cases in China have long been categorized and adjudicated according to the traditional tripartite framework of criminal, civil, and administrative jurisdictions, without due consideration for their unique characteristics. This approach has led to a range of issues, such as lax accountability for environmental pollution, delays in case adjudication, insufficient assistance for pollution victims, limited access for plaintiffs, substantial litigation expenses and financial risks, and inconsistent rulings. Additionally, the investigation and evidence-gathering processes in environmental cases demand a high level of expertise from adjudicators, often requiring knowledge in law, land and resources, forestry, and other areas. Judges within the traditional court system may struggle with the proper application of laws and may make errors that affect the quality of environmental case adjudication (Wang, 2014).
+Against this backdrop, China’s exploration of environmental judicial systems began. From 1996 to 2011, despite a 29% annual increase in environmental disputes that severely impacted social stability, the imperfections in the judicial system left victims without effective recourse (Stern, 2014). To enhance the efficiency of environmental justice, China started to explore the establishment of specialized environmental and resource adjudication bodies within the existing court system to promote the specialization of environmental justice reform, with the most representative initiative being the creation of environmental courts (Zhang, 2016; Zhang, 2016). With the endorsement of the Supreme People’s Court, Guiyang and Qingzhen set up environmental courts in November 2007. Following this, other provinces, under the Court’s direction, began experimenting with similar institutions.
+Before the establishment of environmental courts, environmental tort disputes, whether they involved governmental environmental enforcement or private conflicts, were generally challenging to adjudicate and determine liability efficiently. This situation greatly increased the risk of pollution-related industries violating environmental laws, with victims being unable to receive compensation promptly and violators not being punished swiftly, thus making it difficult to maintain environmental legal justice. Even when cases were eventually decided after a long trial period, violators could still appeal, leading to the case entering another lengthy adjudication process. The establishment of environmental courts has effectively improved judicial efficiency and resolved these issues. Environmental courts recruit judges and decision-makers through specialized selection procedures that prioritize proven expertise in environmental affairs. They apply their profound knowledge in environmental law, science, and economics to make more just and efficient rulings on cases. Furthermore, all environmental courts adopt a centralized adjudication model. This model not only standardizes the judicial procedures for environmental cases but also unifies the judicial standards and sentencing scales for such cases, enabling judges to concentrate on environmental cases, thereby significantly enhancing the judicial efficiency and quality of environmental cases. 
+Furthermore, the establishment of environmental courts has also fostered cooperation with local government departments, such as the public security bureau and the land resources bureau, enhancing the enforcement of ecological and environmental protection through joint action mechanisms. Previously, due to the presence of local protectionism, local environmental protection law enforcement teams often fail to promptly detect and investigate illegal pollution activities within their jurisdictions, allowing violators to evade punishment. The establishment of environmental courts aims to change the situation by adopting a model that “integrates and combines enforcement.” Additionally, environmental courts can enhance the effectiveness of environmental law enforcement by accepting and adjudicating administrative lawsuits, prosecuting the inaction or wrongful actions of local governments in environmental administrative activities, issuing environmental justice orders, and exerting judicial influence over relevant local governments or departments.
+Existing research has indicated that although local governments, under the pressures of promotion incentives and economic growth, may reduce their efforts in pollution control, public environmental demands can influence government behavior to some extent and promote the management of environmental pollution (Farzin and Bond, 2006; Zheng et al., 2013; Liang and Gao, 2014). The effectiveness of public participation in pollution management is affected by factors such as the methods of participation and expectations for rights protection (Wang and He, 2014). The establishment of environmental courts not only enhances the judicial efficiency in handling environmental cases but also strengthens the public’s confidence in seeking judicial remedies for environmental pollution, providing a more efficient avenue for public rights protection. By reinforcing the interaction between the rule of law and public environmental participation, environmental courts contribute to improving the efficiency of local government environmental regulation.
+In summary, this paper proposes the following hypotheses:
+	Hypothesis H1: Strengthened environmental-law enforcement resulting from the establishment of environmental courts can enhance the environmental regulatory efficiency of local governments.
+	Hypothesis H2: It can improve the environmental regulatory efficiency of local governments by enhancing judicial efficiency, reducing local government interference and protectionism, and elevating public participation in environmental protection
+
+3. Data and method
+
+3.1.Data
+
+This paper focuses on the environmental regulatory efficiency of local governments, that is, the relationship between the efforts made by local governments in environmental regulation and the returns achieved. The efforts and returns in environmental regulation involve many aspects, hence a simple output/input formula cannot effectively measure it. Additionally, when assessing environmental regulatory efficiency, considering only the desired outputs while neglecting the undesired outputs may lead to an overestimation of the efficiency of certain decision-making units (DMUs). To address this, we employ the undesired output Slacks-Based Measure (SBM, hereafter) model to construct the environmental regulatory efficiency of local governments. The SBM model, proposed by Tone (2021), is a non-radial, non-angular Data Envelopment Analysis (DEA) model. This model not only pays attention to the proportional relationship between inputs and outputs but also comprehensively considers the redundancy and insufficiency in the actual process, thus providing a more comprehensive and accurate efficiency assessment. The specific process is as follows: Suppose there are n decision-making units (DMUs), and the inputs, desired outputs, and undesired outputs of each DMU are represented by vectors: X=(x_ij )∈R^(m×n),Y=(y_kj )∈R^(s×n),Z=(z_lj )∈R^(h×n), respectively. The specific model form is as Eq. (1):
+ρ=min⁡〖(1-1/m ∑_(i=1)^m▒(s_i^x)/x_i0 )/(1+1/(s_1+s_2 )(∑_(k=1)^(s_1)▒(s_k^y)/y_k0 +∑_(l=1)^(s_2)▒(s_l^z)/z_l0 ))〗
+s.t.  x_i0=∑_(j=1)^n▒〖λ_j x_j 〗+s_i^x,∀i;	
+y_k0=∑_(j=1)^n▒〖λ_j y_j 〗-s_k^y,∀k; 			（1）
+z_l0=∑_(j=1)^n▒〖λ_j z_j 〗+s_l^z,∀l;	
+s_i^x≥0,s_k^y≥0,s_l^Z≥0,λ_j≥0,∀i,j,k,l;
+
+In the model, s^x∈R^m and s^z∈R^s2 represent the surplus of inputs and undesired outputs, respectively, while s^y∈R^s1 denotes the shortage of desired outputs. The variable ρ indicates the efficiency value of the decision-making unit (DMU), and m, s_1, and s_2 represent the number of inputs, desired output, and undesired output variables, respectively. In the base model, we assume constant returns to scale (CES), and subsequent robustness test shows that variable returns to scale (VES) do not affect our main conclusions. Table 1 provides a description of the inputs (X), desired outputs (Y), and undesired outputs (Z).
+
+Table 1. Explanation of indicators for the undesired output SBM Model
+
+Primary Indicator	Secondary Indicator	Unit
+Input Indicators	Water Conservancy, Environmental Protection, and Public Facility Management Staff	10.000 people
+	Energy Conservation and Environmental Protection Expenditure	Yuan
+Desired Output Indicators	Comprehensive Utilization Rate of General Industrial Solid Waste	%
+	Per Capita Public Green Space Area	m2
+Undesired Output Indicators	Industrial Sulfur Dioxide Emissions	Tons
+	Industrial Wastewater Discharge	10.000 Tons
+
+We select relevant indicators with the least missing data available during the research period to mitigate potential biases in efficiency estimation arising from data gaps. For input indicators, the analysis adopts a dual-dimensional approach: Environmental protection human resources, measured by the number of practitioners in water conservancy, environmental management, and public facility administration; Financial investment in environmental protection, proxied by expenditures on energy conservation and environmental initiatives. Regarding desired output indicators, the focus lies on two key aspects of local residents’ living environment: Quality of living conditions, represented by per capita public green space area; Waste management efficiency, captured by metrics such as the comprehensive utilization rate of general industrial solid waste. For undesired output indicators, industrial pollution variables are incorporated, including: Industrial sulfur dioxide emissions; Industrial wastewater discharge volumes. All data are sourced from the China City Statistical Yearbook and provincial statistical yearbooks, ensuring reliability and consistency.
+Data on the establishment of environmental courts is sourced from the Legal System Network, as well as relevant information from various provincial and municipal intermediate people’s courts, and is cross-verified with the “China Environmental and Resource Adjudication” published by the Supreme People’s Court. In China, although the number of grassroots environmental courts is the highest, their establishment is difficult to verify, and their adjudicative powers are significantly limited (Fan and Zhao, 2019). Accordingly, this study limits its scope to environmental courts set up within intermediate people’s courts at the municipal level. Beginning with Guiyang’s environmental court in 2007, over 20 provinces and municipalities had introduced similar courts by late 2014. In 2014, the Supreme People’s Court established environmental and resource tribunals nationwide, with a total of 32 municipal environmental courts covering 29 cities. Considering the significant differences in heterogeneity and administrative levels, we exclude centrally administered municipalities (Beijing, Tianjin, Shanghai, Chongqing).
+We control for several factors affecting environmental regulatory efficiency. Lngdpper (log of per capita GDP) captures regional economic development, as higher income may increase environmental investment. UrbanRate measures urbanization, which may raise energy use (Panayotou, 1997) or enhance environmental awareness (Torras and Boyce, 1998; Farzin and Bond, 2006). Second is the share of secondary industry in GDP, where heavy reliance on polluting industries may reduce efficiency. Lnfdi (log of foreign direct investment) proxies economic openness, which can introduce clean technology or shift pollution-intensive industries domestically (“pollution haven hypothesis”). Lnpopden (log of population density) reflects both pollution pressure and potential scale economies in environmental management. Table 3 provides descriptive statistics for the data used in this study.
+In sum, we compile a unbalanced panel of 256 cities from 2007 to 2014, yielding 2,029 observations. Table 2 presents the descriptive statistics for all variables.
+
+Table 2. Descriptive statistics
+
+Variables	Definition	Mean	S.D.	N
+Eff	Environmental Regulatory Efficiency	0.094	0.131	2,029
+EC	Environmental Courts Established	0.039	0.193	2,029
+Lngdpper	GDP per capita	10.277	0.742	2,029
+Lnfdi	Foreign Direct Investment	9.998	1.660	2,029
+Second	Second Sector to GDP	0.452	0.135	2,029
+UrbanRate	Urbanization Rate	0.336	0.231	2,029
+Lnpopden	Population Density	5.829	0.848	2,029
+envSuit	Count of Environmental Dispute Cases	0.350	4.41	2,029
+portion	Environmental Dispute Case Ratio	0.005	0.023	2,029
+Lnpub	Public Attention Level	2.813	0.808	987
+Note: This table show summary statistics for all the data used in this paper. And they are based on observations during years 2007-2014. The N is from full regression specification.
+
+3.2.Method
+
+To investigate how the establishment of environmental courts affects environmental regulatory efficiency at the local level, based on Bertrand and Mullainathan (2003), this paper constructs the following DID model (Eq. 32):
+
+Y_ct=α+β〖EC〗_ct+θ_c+λ_t+ζ_pt+γX_ct+ϵ_ct 	(2)
+
+where: Y_ct represents the environmental regulatory efficiency of city c in year t; EC_ct is the core explanatory variable. If city c establishes an environmental court in year t, then t'≥t,EC_(ct^' )≡1, and 0 otherwise. When EC_ct equals 1, it indicates that the city has strengthened the enforcement of its environmental laws. θ_c represents city fixed effects, capturing all time-invariant differences between cities; λ_t represents year fixed effects, capturing macro-level factors that change over time, such as adjustments in environmental policies, and shocks to total supply and demand. ζ_pt represents province-year fixed effects; there may be differentiated factors affecting environmental justice between prefecture-level cities’ provinces (Fan and Zhao, 2019), such as variations in the stringency of environmental regulatory policies and shifts in the focus of environmental protection efforts across different provinces. In addition to these fixed effects, the model also includes factors at the city level that may affect urban environmental regulatory efficiency X_ct, which are introduced above. We use the Tobit model to estimate this equation. To address potential heteroskedasticity and serial correlation, standard errors are clustered at the city level.
+
+4. Results
+
+4.1.Baseline Result
+
+Table 3 reports the estimation results for Eq. (2), which are indicative of a statistically significant increase in environmental regulatory efficiency in cities with environmental courts. From the results in the third column, it is evident that even after controlling for provincial-level time-varying factors, city-level permanent differences, and certain city-level time-varying factors, the establishment of environmental courts continues to significantly enhance environmental regulatory efficiency. This confirms hypothesis H1, which posits that strengthened environmental-law enforcement resulting from the establishment of environmental courts can enhance the environmental regulatory efficiency of local governments. Because the McFadden pseudo-R² for Tobit is derived from a mixed continuous-discrete likelihood, it can lie outside the 0–1 range and is therefore not reported. Consistent with this limitation, no R² statistics are presented in any of the subsequent Tobit-based tables.
+For the control variables, Table 3 shows that, once province–year fixed effects are included, adding these controls markedly attenuates the effect of our key regressor, EC, on environmental regulatory efficiency—evidence that the controls are well chosen. Moreover, in our econometric specification the controls themselves exert no significant influence on efficiency, whereas EC retains a robust positive effect, underscoring that establishing environmental courts is a crucial and effective measure for improving regulatory performance.
+
+Table 3. Baseline results
+
+Variables	Environmental Regulatory Efficiency
+	(1)	(2)	(3)
+EC	0.108*	0.080**	0.078**
+	(0.06)	(0.04)	(0.04)
+Lngdpper		0.007	0.010
+		(0.01)	(0.01)
+Lnfdi		0.003	0.003
+		(0.00)	(0.00)
+Second		0.020	0.020
+		(0.14)	(0.14)
+UrbanRate			-0.023
+			(0.03)
+Lnpopden			-0.005
+			(0.01)
+N	2,056	2,029	2,029
+City FE	√	√	√
+Province-Year FE	√	√	√
+Note: * significant at 10% ** significant at 5% *** significant at 1%.
+
+4.2 Robustness tests
+
+To verify the robustness of our main regression results and rule out the possibility of chance findings, we conduct a series of tests.
+
+Parallel Trend Assumption
+When employing the DID approach to explore the issue at hand, we rely on the assumption of parallel trends. This assumption posits that the control group serves as a suitable comparison for the treatment group in the regression analysis, and they should exhibit similar trends before the policy intervention. Drawing inspiration from Beck et al. (2010), we formulate Eq. (3) to assess the parallel trends assumption:
+
+Y_ct=α+∑_(i=-4)^7▒β_i  DtoReform_ct^i+θ_c+λ_t+ζ_pt+γX_ct+ϵ_ct		(3)
+
+the majority of this equation is identical to Eq. (2), with the exception of the core explanatory variable. We establish a time window ranging from four years prior to the policy implementation (DtoReform = -4) to seven years post-implementation (DtoReform = 7). This time window enables us to evaluate whether the observed outcomes were present in the four years leading up to the policy and helps us understand the timing and persistence of the effects of the establishment of environmental courts. Fig. 1 illustrates the coefficients β_i and their corresponding 95% confidence intervals, using the year prior to the reform as the base year. As shown in the figure, there are no significant differences in environmental regulatory efficiency between the treated and control cities in the four years prior to the creation of environmental courts. However, a noticeable divergence emerges afterward. The graph indicates that the establishment of environmental courts significantly enhance the environmental regulatory efficiency of the treated cities in the third year following the setup and reached its peak in the sixth year. Based on these results, we conclude that the parallel trends test is satisfied.
+ 
+
+Fig. 1. Dynamics of policy effect
+
+Heterogeneous treatment effects
+This study employs a two-way fixed effects (TWFE) estimation within a multi-period DID framework. However, TWFE may suffer from negative weight bias when treatment effects are heterogeneous across units or time (De Chaisemartin and D’Haultfoeuille, 2020; Goodman-Bacon, 2021; Baker et al., 2022; Liu et al., 2022). To address this, alternative estimators have been proposed, including double control weighting (De Chaisemartin and D’Haultfoeuille, 2020), group-time ATT estimation (Callaway and Sant’Anna, 2021), dynamic treatment effect with inverse probability weighting (Sun and Abraham, 2021), and adjusted DID weighting (Borusyak et al., 2024). Applying these methods, as showed in Fig. 2, we find coefficient magnitudes and significance vary somewhat, but the pre-policy effects remain insignificant, and post-policy effects remain significantly positive, leaving our main conclusions unchanged.
+
+ 
+
+Fig. 2. Heterogeneous treatment effect
+
+Alternative measurements
+In our earlier analysis, we adopt the CRS assumption. We now relax this assumption by employing VRS assumption. This modification yields updated environmental regulatory efficiency metrics, prompting us to re-estimate the regression models. As Column 1 of Table 4 shows, the coefficient remains statistically significant and positive, though its magnitude decreases slightly. Importantly, this adjustment does not alter our core findings, confirming the robustness of our key conclusions.
+
+Including region-specific linear time trends
+To control for aggregate time trends, we incorporate region-specific linear time trends (λ_r×t) into Eq. (2), where regions are defined as eastern, central, and western China. This adjustment allows us to account for differences in regional development trajectories over time and helps isolate the core policy effect. As shown in Column 2 of Table 4, the estimated coefficients remain consistent after including these trends, indicating that our main results are robust to region-specific time dynamics.
+
+Alternative estimation approaches
+In our baseline regression model, we employ a Tobit estimation approach to account for the bounded nature of environmental regulatory efficiency scores derived from the undesirable-output SBM model (constrained within the [0,1] interval). To ensure the robustness of our findings, we further estimate the equation using ordinary least squares (OLS) with a logarithmic transformation of the efficiency measure. As shown in Column 3 of Table 4, the establishment of environmental courts maintains its statistically significant positive effect on local environmental regulatory efficiency under the OLS framework.
+
+Sample selection
+To address potential confounding effects from provinces without environmental courts during the entire sample period, we restrict our sample to provinces that established such courts and re-estimate the model. As shown in Column 4 of Table 4, the exclusion of provinces without environmental courts does not materially alter our main results, further confirming the robustness of our findings.
+
+PSM-DID
+To enhance the robustness of the empirical findings, we employ a Propensity Score Matching (PSM, hereafter) combined with DID approach to mitigate potential sample selection bias. First, we estimate the propensity scores for treatment assignment based on observable control variables and construct a matched control group with characteristics closely resembling those of the treatment group. Subsequently, we apply the DID estimator to the matched sample to assess the treatment effect. This PSM-DID strategy effectively addresses confounding biases arising from non-random sample selection, thereby strengthening the validity of causal inference. As illustrated in Fig. 3, the standardized differences in control variables between the treatment and control groups are significantly reduced after matching, confirming the balancing of covariates. The regression results from the matched sample (Column 5, Table 4) remain consistent with the baseline estimates, suggesting that the core conclusions of our paper are robust to potential sample selection bias.
+
+Table 4. Robustness checks
+
+Variables	VRS	Time Trend	OLS	Sample Restriction	PSM-DID	IFE
+	(1)	(2)	(3)	(4)	(5)	(6)
+Treatct	0.087**	0.080**	0.079*	0.088**	0.084**	0.053*
+	(0.04)	(0.04)	(0.04)	(0.04)	(0.04)	(0.30)
+N	2,029	2,029	2,029	667	2,014	2,029
+Control Variables	√	√	√	√	√	√
+City FE	√	√	√	√	√	√
+Province-Year FE	√	√	√	√	√	√
+Regional Time Trend	——	√	——	——	——	——
+City Linear Trend	——	——	——	——	——	√
+Note: * significant at 10% ** significant at 5% *** significant at 1%.
+
+
+ 
+
+Fig. 3. Pre- vs. post-matching balance check
+
+Placebo test
+To assess the potential influence of unobserved confounders, this study conducts a placebo test by simulating a scenario in which no actual policy intervention occurs. Given data limitations, certain time-varying city-level factors correlated with both the establishment of environmental courts (EC) and environmental regulatory efficiency may remain unaccounted for in the model. If such omitted variables systematically influence the treatment effect, the baseline estimates could be biased. To address this concern, we randomly reassign the timing and location of policy implementation and estimate the treatment effect under this falsification framework. Specifically, we introduce random perturbations to the EC variable and replicate the analysis 1,000 times, generating a distribution of placebo coefficients and their associated p-values. As illustrated in Fig. 4, the placebo estimates are centered around zero, with the majority of p-values exceeding 0.1, indicating no statistically significant treatment effect under random assignment. Notably, the actual estimated coefficient lies outside this distribution, serving as a clear outlier. These results suggest that omitted variables are unlikely to be driving the observed treatment effect, reinforcing the robustness of our primary findings.
+
+
+
+ 
+
+Fig. 4. Placebo test
+
+5. Mechanism analysis
+
+In the baseline regression results, we substantiated hypothesis H1, demonstrating that strengthened environmental-law enforcement significantly improves the environmental regulatory efficiency of local governments.. In this section, our focus shifts to proving hypothesis H2, which concerns the presence of enhanced judicial efficiency, reduced local government interference and protectionism, and elevated public participation.
+
+5.1. Judicial Efficiency
+
+To test the judicial efficiency channel in hypothesis H2, we use two indicators: (1) the number of resolved environmental dispute cases and (2) their share of total adjudicated cases (Fan and Zhao, 2019). We retrieve the case data from China Judgments Online, Peking University Fa Bao, and Jufa Case Database, identifying environmental judgments with keyword filters and statutory citations, followed by automated scraping and manual verification. Using those two indicators as dependent variables, we re-estimate Eq. 2. The results in Table 5 show significant increases in both metrics after the establishment of environmental courts, supporting the hypothesis that strengthened environmental-law enforcement enhances local environmental regulatory efficiency via improved judicial efficiency.
+
+Table 5. Judicial efficiency
+
+Variables	Case count	Case portion
+	(1)	(2)
+EC	2.329**	0.109***
+	(0.94)	(0.00)
+N	1,969	1,969
+Control Variables	√	√
+City FE	√	√
+Province-Year FE	√	√
+R2	0.253	0.915
+Note: * significant at 10% ** significant at 5% *** significant at 1%.
+
+5.2. Local Government Interference and Protectionism
+
+To test the government interference and protectionism channel in hypothesis H2, we use two measures: Government Administrative Intervention (GAI), derived from the “reduction of government intervention” indicator in the NERI China Provincial Marketization Index Report (2007), where lower scores indicate stronger intervention; and Local Protectionism (LP), based on the World Bank’s 2005 China Investment Climate Survey, where higher scores indicate stronger protectionism. Interaction analysis (Table 6, Columns 1–2) shows that strengthened environmental-law enforcement has particularly stronger effects in areas with high government intervention (low GAI scores). While the difference between high- and low-LP areas is not statistically significant. These results indicate that environmental courts effectively mitigate the negative effects of government interference and improve regulatory efficiency, although the improvements are not statistically significant across different levels of local protectionism.
+
+Table 6. Local government interference and protectionism
+
+Variables	Interference	Protectionism
+	(1)	(2)
+EC	0.518**	0.015*
+	(0.24)	(0.01)
+EC×GAI	-0.048**	
+	(0.02)	
+EC×LP		-0.015
+		(0.01)
+N	870	1,950
+Control Variables	√	√
+City FE	√	√
+Province-Year FE	√	√
+R2	0.899	0.863
+Note: * significant at 10% ** significant at 5% *** significant at 1%.
+
+5.3. Public Participation
+
+To test the public participation channel in hypothesis H2, we use a city-year level environmental protection online public opinion index as a proxy, constructed by aggregating daily Baidu search frequencies for “environmental pollution + city” keywords and standardizing per million internet users (Zheng et al., 2013; Li, 2017). Results in Table 7 show that the establishment of environmental courts significantly increases public attention to environmental issues, even after controlling for contemporaneous and lagged pollutant emissions. These findings indicate that strengthened environmental-law enforcement can promote public participation.
+
+Table 7. Public participation
+
+Variables	Public Participation
+	(1)	(2)	(3)
+EC	0.108*	0.080**	0.080**
+	(0.06)	(0.04)	(0.04)
+LnSO2		-0.011	
+		(0.02)	
+LnWasteWater		0.028	
+		(0.03)	
+L.LnSO2			0.027*
+			(0.02)
+L.LnWasteWater			0.006
+			(0.02)
+N	987	979	975
+Control Variables	√	√	√
+City FE	√	√	√
+Province-Year FE	√	√	√
+R2	0.964	0.965	0.965
+Note: * significant at 10% ** significant at 5% *** significant at 1%.
+
+6. Heterogeneity analysis
+
+We examine whether the impact of strengthened environmental-law enforcement on regulatory efficiency varies with (1) environmental governance pressure and (2) public access to pollution monitoring data. This allows us to assess the courts’ effectiveness under different institutional conditions and identify where their regulatory influence is strongest.
+
+6.1. Environmental Governance Pressure
+
+China’s rapid economic growth has generated severe air and water pollution, notably in the TCZ regions and the Yangtze River basin (Chen et al., 2018). Sub-sample regressions (Table 8, Columns 1–2) show that environmental courts has significantly stronger effects on regulatory efficiency in highly polluted areas, while their impact is limited in less polluted regions. These results indicate that strengthened environmental-law enforcement are particularly effective where environmental governance pressures are greatest.
+
+6.2. Pollution Information Transparency
+
+Public participation, supported by access to pollution monitoring data, plays a key role in environmental governance. To further test this channel, we use the Pollution Information Transparency Index (PITI) to classify cities into high- and low-transparency groups (IPE and NRDC). Subsample regressions (Table 8, Columns 3–4) show that environmental courts significantly improve regulatory efficiency in low-transparency cities, while their effect is smaller in high-transparency cities. These results highlight that strengthened environmental-law enforcement strengthen environmental governance by enhancing public participation, particularly where transparency is limited.
+
+Table 8.: Heterogeneity Analysis
+
+Variables	TCZ and Yangtze River Cities	Non-TCZ and Yangtze River Cities	High Transparency	Low Transparency
+EC	0.102**	0.016	0.014	0.066*
+	(0.05)	(0.01)	(0.02)	(0.04)
+N.	1,462	567	373	1,656
+Control Variables	0.910	0.905	0.908	0.903
+City FE	√	√	√	√
+Province-Year FE	√	√	√	√
+Note: * significant at 10% ** significant at 5% *** significant at 1%
+
+7. Conclusions
+
+This paper empirically examines the impact of strengthened environmental-law enforcement resulting from the establishment of environmental courts on local governments’ environmental regulatory efficiency, yielding several important findings. The results demonstrate that strengthened environmental-law enforcement significantly improve local environmental regulatory efficiency through three key mechanisms: enhancing environmental judicial efficiency, reducing local government intervention, and elevating public participation in environmental protection. In addition, the effect is stronger in cities with higher environment governance pressure and low pollution information transparency.
+This paper contributes to the literature by two ways. Firstly, it provides the first evidence that environmental courts significantly enhance local environmental regulatory efficiency, with the gains being most pronounced in cities facing high governance pressure and low information transparency. While existing literature tends to focus on a single indicator of environmental protection while overlooking efficiency concerns. Second, it identifies and empirically validates three novel mechanisms—enhanced judicial efficiency, reduced government interference, and elevated public participation—thereby extending both the environmental-court and regulatory-efficiency literatures.
+This paper provides novel insights into understanding the role of environmental courts in China’s environmental governance system and offers empirical evidence for optimizing environmental governance policies in developing countries. Future research could explore how to combine environmental courts with other governance tools to enhance regulatory efficiency within a diversified environmental policy framework, ultimately achieving the dual objectives of economic development and environmental protection.
+
+Acknowledgements
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors. We appreciate the valuable suggestions from Deming Luo, Mohan Zhou in Zhejiang University, which improve this paper much.
+
+References
+
+Baker A.C., Larcker D.F., Wang C.C.Y., (2022), How much should we trust staggered difference-in-differences estimates? Journal of Financial Economics, 144, 370–395.
+Beck T., Levine R., Levkov A., (2010), Big bad banks? the winners and losers from bank deregulation in the United States, Journal of Finance, 65, 1637–1667.
+Bertrand M., Mullainathan S., (2003), Enjoying the quiet life? Corporate governance and managerial preferences, Journal of Political Economy, 111, 1043–1075.
+Borusyak K., Jaravel X., Spiess J., (2024), Revisiting event-study designs: robust and efficient estimation, The Review of Economic Studies, 91, 3253–3285.
+Callaway B., Sant’Anna P.H.C., (2021), Difference-in-differences with multiple time periods, Journal of Econometrics, 225, 200–230.
+Chen S., Guo S., Huang X., (2018), Air pollution, student health, and school absences: evidence from China, Journal of Environmental Economics and Management, 92, 465–497.
+De Chaisemartin C., D’Haultfœuille X., (2020), Two-way fixed effects estimators with heterogeneous treatment effects, American Economic Review, 110, 2964–2996.
+Fan Z., Zhao R., (2019), Does rule of law promote pollution control? Evidence from the establishment of the Environmental Court, Economic Research Journal, 3, 21–37.
+Farzin T.H., Bond C.A., (2006), Democracy and environmental quality, Journal of Development Economics, 81, 213–235.
+Gao H., Wen H., (2021), The impact of environmental rule of law on bond financing cost: Evidence from environmental courts in China, Journal of Financial Research, 12, 133–151.
+Goodman-Bacon A., (2021), Difference-in-differences with variation in treatment, Journal of Econometrics, 225, 254–277.
+Hou H., Yang S., Zhang M., (2023), The impact of anti-corruption on environmental governance efficiency in China: A study based on spatial effect, Managerial and Decision Economics, 44, 4452–4465.
+Huang X., Liu W., Cao Z., (2022), Environmental courts and foreign direct investments: evidence from China, Environmental Science and Pollution Research, 29, 31400–31412.
+Kostka G., (2014), Barriers to the implementation of environmental policies at the local level in China, The World Bank Policy Research Working Paper, On line at: https://documents1.worldbank.org/curated/en/102001468220778402/pdf/WPS7016.pdf.
+Li H., Zhu X., Chen J., Jiang F., (2019), Environmental regulations, environmental governance efficiency and the green transformation of China’s iron and steel enterprises, Ecological Economics, 165, 106397, doi: https://doi.org/10.1016/j.ecolecon.2019.106397.
+Li Z., (2017), The impact of public participation on local government's environmental governance: An analysis of provincial data 2003–2013, Chinese Public Administration, 8, 102–108.
+Liang P., Gao N., (2014), Personnel changes, legal environment, and local environmental pollution, Journal of Management World, 6, 65–78.
+Liu C., Sha X., Zhang Y., (2022), Staggered difference-in-differences method: Heterogeneous treatment effects and choice of estimation, Journal of Quantitative & Technological Economics, 9, 177–204.
+Panayotou, T., (1997), Demystifying the environmental Kuznets curve: turning a black box into a policy tool, Environmental and Development Economics, 2, 465–484.
+Stern R.E., (2014), The political logic of China’s new environmental courts, The China Journal, 72, 53–74.
+Sun L., Abraham S., (2021), Estimating dynamic treatment effects in event studies with heterogeneous treatment effects, Journal of Econometrics, 225, 175–199.
+Tang G., Lin M., Xu Y., Li J., Chen L., (2021), Impact of rating and praise campaigns on local government environmental governance efficiency: Evidence from the campaign of establishment of national sanitary cities in China, PLoS One, 16, e0253703, doi: https://doi.org/10.1371/journal.pone.0253703.
+Tone K., (2021), Dealing with undesirable outputs in DEA: a Slacks-Based Measure (SBM) approach, American Journal of Operations Management and Information Systems, , 6, 67–74.
+Torras M., Boyce J.K., (1998), Income, inequality, and pollution: a reassessment of the environmental Kuznets curve, Ecological Economics, 25, 147–160.
+Wang F., Wang Y., Gao W., (2023), Is the establishment of environmental courts an effective mechanism for environmental governance? – An empirical research based on green M&A of enterprises, Journal of Shandong University (Philosophy and Social Sciences), 3, 85–100.
+Wang H., He Y., (2014), Influence factors and path optimization of fog haze public participation governance, Chongqing Social Sciences, 12, 42–47.
+Wang Q., Guo F., Xu X., (2012), The evaluation of urban environmental governance efficiency of China and its temporal-spatial changes study, World Regional Studies, 21, 153–162.
+Wang S., (2014), On ecological civilization construction and environment judicial reform, China Law, 3, 54–71.
+Wu X., Luo L., You J., (2023), Actions speak louder than words: environmental law enforcement externalities and access to bank loans, Journal of Banking & Finance, 153, 106882, doi: https://doi.org/10.1016/j.jbankfin.2023.106882.
+Wu X., Luo L., You J., (2025), Actions speak louder than words: environmental law enforcement and audit fees, Review of Accounting Studies, 30, 519–574.
+Wunderlich M., (2017), Structure and law enforcement of environmental police in China, Cambridge Journal of China Studies, 12, 33–49.
+Yang L., Zhang X., (2018), Assessing regional eco-efficiency from the perspective of resource, environmental and economic performance in China: A bootstrapping approach in global data envelopment analysis, Journal of Cleaner Production, 173, 769–783.
+Yang Z., (2022), Multi-dimensional environmental governance system reform in the new era: Practical logic and theoretical debate, Administration Reform, 4, 95–104.
+Yu S., Liu J., Li L., (2020), Evaluating provincial eco-efficiency in China: an improved network data envelopment analysis model with undesirable output, Environmental Science and Pollution Research, 27, 6886–6903.
+Zeng H., Ren L., Chen X., Zhou Q., Zhang T., Cheng X., (2024), Punishment or deterrence? environmental justice construction and corporate equity financing—evidence from environmental courts, Journal of Corporate Finance, 86, 102583, doi: https://doi.org/10.1016/j.jcorpfin.2024.102583.
+Zhai H., Liu Y., (2019), Does environmental justice specialization promote corporate environmental governance? Quasi natural experiments from special environmental courts, China Population, Resources and Environment, 6, 138–147.
+Zhang M., Deng S., (2022), The dilemma and resolution of the connection between the vertical management reform of environmental protection and the comprehensive law enforcement reform, Jiangxi Social Sciences, 42, 141–149.
+Zhang Q., Yu Z., Kong D., (2019), The real effect of legal institutions: environmental courts and firm environmental protection expenditure, Journal of Environmental Economics and Management, 98, 102254, https://doi.org/10.1016/j.jeem.2019.102254.
+Zhang S., (2016), Questions and reflections on the environmental courts: Based on the scope of accepting cases, Legal Forum, 31, 52–58.
+Zhang Z., (2016), An empirical analysis on the specialization of environmental justice: Focusing on the environmental trial organ and environmental trial mechanism, China Legal Science, 6, 177–196.
+Zheng S., Wan G., Sun W., Luo D., (2013), Public demands and urban environmental governance, Journal of Management World, 6, 72–84.
